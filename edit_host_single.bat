@@ -1,5 +1,5 @@
 @echo off
-echo 123.245.234.134 golive.garden > %temp%\temphosts.txt
+echo 123.245.234.134 http://golive.garden > %temp%\temphosts.txt
 echo 52.2.24.193 bounceexchange.com > %temp%\temphosts.txt
 echo 52.2.24.193 api.bounceexchange.com > %temp%\temphosts.txt
 echo 52.2.24.193 www.bounceexchange.com > %temp%\temphosts.txt
