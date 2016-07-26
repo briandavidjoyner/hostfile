@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "001.001.001 bounceexchange.com" >> /etc/hosts
+echo "52.2.24.193 bounceexchange.com ibx1.net api.bounceexchange.com www.bounceexchange.com core.bounceexchange.com tag.bounceexchange.com" >> /etc/hosts
